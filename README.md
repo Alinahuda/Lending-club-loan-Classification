@@ -18,6 +18,6 @@ The notebook is divided into 4 section
 4. Evaluating the model Performance
 
 # Results
-As the model was imbalanced , accuracy would be the correct metric for the evaluation , the model was evaluated using Auc socre and F1 score metrics . The model evaluated on test data has f1 score of 70% and auc score of 0.71.
+As the model was imbalanced , accuracy would not be the correct metric for the evaluation , the model was evaluated using Auc socre and F1 score metrics . The model evaluated on test data has f1 score of 70% and auc score of 0.71.
 
  
